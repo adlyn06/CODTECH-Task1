@@ -1,8 +1,8 @@
 # CODTECH-Task1
-Name: ADLYN A
-Company : CODTECH IT SOLUTIONS
-Domain : Frontend Development
-Duration : December 2024 to January 2025
+Name: ADLYN A |
+Company : CODTECH IT SOLUTIONS |
+Domain : Frontend Development |
+Duration : December 2024 to January 2025 |
 Mentor : NEELA SANTHOSH KUMAR
 
 OVERVIEW OF THE PROJECT
